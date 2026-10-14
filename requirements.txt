@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+boto3
+langgraph
+langchain-aws
+langchain-core
+pytest
+httpx
